@@ -1,3 +1,5 @@
+# WARNING:  This is archived.  Please see [openlmis-stockmanagement-validator-extension](https://github.com/OpenLMIS/openlmis-stockmanagement-validator-extension) and [docs.openlmis.org](http://docs.openlmis.org) instead
+
 # OpenLMIS Example Extension Module
 This example is meant to show an OpenLMIS 3.x Example Extension Module at work.
 
